@@ -3,21 +3,12 @@
 .btn{
   background-color:yellow;
   border:none;
-  color:#F62217;
-  padding:60px 10px;
   text-align:center;
   font-size:16px;
   margin:4px 2px;
   cursor:pointer;
-
-  background-color:#FFOOOO;
-  border:none; 
   color:darkred;
   padding:15px 32px; 
- text-align:center; 
-  font-size:16px;
-  margin:4px 10px; 
-  cursor:pointer; 
   border-radius:20px;
 } 
 
@@ -41,6 +32,7 @@ p{
 .box{ 
     background-color:#F62217;
     border:solid gold 10px; 
+    opacity:0.5;
     
 }
     
@@ -51,13 +43,9 @@ h2{
     
 } 
 
-.box{ 
-  backround-color:#F62217;
-  border:solid gold 8px;
-  
+jpg{
+  width: 60%;
+  height:60%;
 }
 
-.link{
-  text-decoration:none;
-}
 
